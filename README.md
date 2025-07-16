@@ -2,9 +2,9 @@
 
 NOVA ORBIS is a 3D scale model of the Solar System, built with Three.js using real data primarily sourced from NASA's Horizons system.
 
-## Versão online
+## Online version
 
-Para executar o app em seu navegador, [clique aqui](https://novaorbis.onrender.com/).
+To run the app in your browser, [click here](https://novaorbis.onrender.com/).
 
 ## Recursos principais
 
