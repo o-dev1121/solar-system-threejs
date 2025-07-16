@@ -29,23 +29,23 @@ Another exciting event in the Solar System is the release of gas from active com
 
 And of course, don’t miss admiring our blue planet floating in space with its atmospheric layer and sunlight-based shader effects. Depending on the date, you might even catch a solar eclipse with the Moon's shadow cast on Earth—or witness a comet like Halley passing by.
 
-## Precisão
+## Accuracy
 
-A física dos corpos segue o **modelo kepleriano** com precessões seculares (nodal e apsidal), baseado em elementos orbitais para a época J2000 (1º de janeiro de 2000 às 10h no Horário de Brasília).
+The physics of the celestial bodies follows the **Keplerian model** with secular precession (nodal and apsidal), based on orbital elements from epoch J2000 (January 1, 2000 at 10 a.m. Brasília time).
 
-Isso significa que a posição dos corpos celestes em qualquer instante é determinada por informações sobre suas órbitas, como o **semi-eixo maior, inclinação, longitude do nó ascendente, argumento do periápside, excentricidade e anomalia média**, essas duas últimas sendo usadas para calcular a anomalia excêntrica, através da equação de Kepler, e a anomalia verdadeira, que é a posição real do corpo em sua órbita elíptica.
+This means the position of celestial bodies at any given moment is determined using orbital information such as **semi-major axis, inclination, longitude of the ascending node, argument of periapsis, eccentricity, and mean anomaly** — the latter two used to calculate eccentric anomaly via Kepler’s equation and the true anomaly, which gives the body’s actual position in its elliptical orbit.
 
-O movimento de translação é completado com a utilização do **período orbital e as precessões** do nodo ascendente e do argumento do periápside.
+Orbital movement is further defined using the **orbital period and precessions** of the ascending node and argument of periapsis.
 
-Diferente de modelos n-body e modelos numéricos completos, o modelo com base kepleriana não considera perturbações gravitacionais, que podem resultar em órbitas altamente variáveis ao longo do tempo. Por esse motivo, quanto mais longe do J2000, a posição de algumas luas deve apresentar desvios em relação a um modelo mais preciso, como o Eyes on the Solar System, da NASA.
+Unlike n-body or full numerical models, the Kepler-based approach doesn’t account for gravitational perturbations, which can lead to significant orbital variations over time. As a result, positions of some moons may deviate from more accurate models—like NASA’s Eyes on the Solar System—the farther the date is from J2000.
 
-Na tentativa de mitigar essas imprecisões, foram feitos alguns ajustes finos nos dados de precessão apsidal e nodal, e períodos orbitais. Os exemplos de correções mais extremas são as luas Valetudo, S/2003 J 23, S/2022 J 1 e S/2022 J 2 de Júpiter, e as luas Bestla, Skrymir, S/2004 S 7 e S/2019 S 6 de Saturno.
+To reduce these inaccuracies, fine adjustments were made to apsidal/nodal precession and orbital periods. Some of the most corrected examples include Jupiter’s moons Valetudo, S/2003 J 23, S/2022 J 1, S/2022 J 2, and Saturn’s moons Bestla, Skrymir, S/2004 S 7, and S/2019 S 6.
 
-Com relação ao movimento de rotação, o principal desafio é inclinar o eixo de rotação do corpo celeste na direção correta. Sabemos que a Terra é tombada cerca de 23° em relação ao plano de sua órbita, mas para que lado ocorre essa inclinação? Para os principais planetas do Sistema Solar e para a nossa Lua foram utilizados dados disponíveis sobre a **ascensão reta e a declinação (RA/DEC)** para calcular o vetor do norte polar e inclinar os objetos corretamente, por meio de quarteniões.
+For rotational movement, the main challenge is properly tilting a body's axis. For example, Earth tilts about 23°, but which direction does it tilt? For major planets and Earth’s Moon, **right ascension and declination (RA/DEC)** data were used to calculate the north pole vector and apply correct orientation using quaternions.
 
-Isso é particularmente importante nos casos de Saturno, que mantém seus anéis orientados exatamente como na vida real durante todo o período de simulação, além de Urano que possui uma obliquidade extrema, fazendo com que o planeta gire de lado como se estivesse rolando sobre sua órbita.
+This is especially important for Saturn, whose rings remain correctly oriented, and Uranus, which has extreme tilt, making it roll along its orbit.
 
-A estratégia de coordenadas RA/DEC também foi adotada para construir o **plano de Laplace** dos satélites mais próximos de seus planetas, que costumam orbitar próximos ao plano equatorial do corpo primário. As demais luas, quando existentes, são referenciadas a partir da **Eclíptica**, seguindo o referencial adotado pelo sistema Horizons.
+The RA/DEC method was also used to construct the **Laplace plane** for satellites orbiting close to their planets, which typically follow the planet’s equatorial plane. Other moons are referenced from the **Ecliptic plane**, aligning with the Horizons system.
 
 # Credits
 
