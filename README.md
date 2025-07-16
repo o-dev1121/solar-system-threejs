@@ -8,19 +8,20 @@ NOVA ORBIS is a 3D scale model of the Solar System, built with Three.js using re
 
 - **Time Machine:** speed up time, go back to the past, or enter a custom date to see what the Solar System looked like at the exact moment you were born;
 
-- **Informações sobre os corpos celestes:** busque por um planeta ou lua e descubra informações como a duração do período orbital, temperatura média, entre muitas outras;
+- **Celestial Body Info:** search for a planet or moon to discover details like orbital period, average temperature, and more.
 
-- **Controle de camadas:** exiba ou oculte camadas como os rótulos e as linhas das órbitas, ou ative a iluminação de ambiente para melhor visualizar regiões inalcançadas pela luz solar;
+- **Layer Control:** toggle layers such as labels and orbit lines, or enable ambient lighting for areas not lit by the sun.
 
-- **Responsividade:** acesse pelo celular ou reduza a janela para o canto da tela sem perder funcionalidades;
+- **Responsive Design:** access the app on mobile or resize the window without losing features.
 
-- **Performance otimizada:** o app utiliza culling, LOD, lazy loading, texturas ktx2 e diversas outras técnicas para garantir a melhor experiência de performance, ao trabalhar com milhares de polígonos;
+- **Optimized Performance:** uses culling, LOD, lazy loading, KTX2 textures, and other techniques for smooth performance with thousands of polygons.
 
-## Pontos de interesse
+## Points of Interest
 
-A cena compreende todos os planetas e planetas-anões, bem como seus respectivos satélites naturais, além de dezenas de asteróides e os principais cometas.
+The scene includes all planets, dwarf planets, their natural satellites, dozens of asteroids, and major comets.
 
-Saturno é sempre uma grande atração por causa de seu complexo sistema de anéis. Se você chegar bem pertinho conseguirá ver as milhares de partículas que compõem os anéis do gigante gasoso.
+Saturn is always a standout with its intricate ring system. Get up close to see the thousands of particles making up the gas giant’s rings.
+
 
 Urano, Netuno e Júpiter são outros planetas que exibem um sistema de anéis, mas você sabia que o planeta-anão Haumea e o centauro Cáriclo também possuem um anéis?
 
