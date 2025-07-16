@@ -2,15 +2,11 @@
 
 NOVA ORBIS is a 3D scale model of the Solar System, built with Three.js using real data primarily sourced from NASA's Horizons system.
 
-## Online version
-
-To run the app in your browser, [click here](https://novaorbis.onrender.com/).
-
 ## Key Features
 
 - **Installable and Offline:** Nova Orbis is a Progressive Web App (PWA), allowing you to install it on your mobile or desktop device, with offline navigation support after the first access with internet;
 
-- **Máquina do tempo:** acelere a passagem do tempo, volte ao passado ou digite uma data personalizada para visualizar como era o Sistema Solar no momento exato em que você nasceu;
+- **Time Machine:** speed up time, go back to the past, or enter a custom date to see what the Solar System looked like at the exact moment you were born;
 
 - **Informações sobre os corpos celestes:** busque por um planeta ou lua e descubra informações como a duração do período orbital, temperatura média, entre muitas outras;
 
