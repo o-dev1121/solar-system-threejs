@@ -72,7 +72,7 @@ export default function LoadingScreen() {
       </div>
 
       <h1 className="absolute right-12 bottom-12 z-10 animate-pulse text-right text-xl text-white md:text-2xl">
-        Carregando...
+        Loading...
       </h1>
     </div>
   );
