@@ -50,9 +50,7 @@ Isso é particularmente importante nos casos de Saturno, que mantém seus anéis
 
 A estratégia de coordenadas RA/DEC também foi adotada para construir o **plano de Laplace** dos satélites mais próximos de seus planetas, que costumam orbitar próximos ao plano equatorial do corpo primário. As demais luas, quando existentes, são referenciadas a partir da **Eclíptica**, seguindo o referencial adotado pelo sistema Horizons.
 
-# Créditos
-
-Projeto desenvolvido por Osmel.
+# Credits
 
 O banco de dados foi construído a partir da API [Le système solaire à portée de votre souris](https://api.le-systeme-solaire.net/), apesar de bastante modificada e atualizada com dados do [Horizons System, do Jet Propulsion Laboratory da NASA](https://ssd.jpl.nasa.gov/).
 
