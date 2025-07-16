@@ -49,16 +49,16 @@ The RA/DEC method was also used to construct the **Laplace plane** for satellite
 
 # Credits
 
-O banco de dados foi construído a partir da API [Le système solaire à portée de votre souris](https://api.le-systeme-solaire.net/), apesar de bastante modificada e atualizada com dados do [Horizons System, do Jet Propulsion Laboratory da NASA](https://ssd.jpl.nasa.gov/).
+The database was built using data from the [Le système solaire à portée de votre souris API](https://api.le-systeme-solaire.net/), though it was heavily modified and updated with data from NASA’s [Horizons System by the Jet Propulsion Laboratory](https://ssd.jpl.nasa.gov/).
 
-As texturas dos planetas, planetas-anões, Sol e Lua foram fornecidas pelo [Solar System Scope](https://www.solarsystemscope.com/textures/). Já as demais texturas foram baixadas dos sites [Free PBR](https://freepbr.com/), [Deviant Art](http://deviantart.com/) e [JPL/NASA](https://www.jpl.nasa.gov/).
+Textures for planets, dwarf planets, the Sun, and Moon were provided by [Solar System Scope](https://www.solarsystemscope.com/textures/). Other textures were sourced from [Free PBR](https://freepbr.com/), [Deviant Art](http://deviantart.com/), and [JPL/NASA](https://www.jpl.nasa.gov/).
 
-O modelo usado para representar corpos sem equilíbrio hidrostático foi construído por Pasquill e disponibilizado em [Sketchfab](https://sketchfab.com/3d-models/asteroid-low-poly-9a43ef48a70647188576ccb5987b7e64).
+The model used for representing non-hydrostatic bodies was created by Pasquill and made available on [Sketchfab](https://sketchfab.com/3d-models/asteroid-low-poly-9a43ef48a70647188576ccb5987b7e64).
 
-A ideia do projeto nasceu de um curso básico de Three.js do canal [Zero to Mastery](https://www.youtube.com/watch?v=KM64t3pA4fs), no YouTube.
+The idea for the project came from a basic Three.js course on the [Zero to Mastery](https://www.youtube.com/watch?v=KM64t3pA4fs) YouTube channel.
 
-# Agradecimento
+# Acknowledgements
 
-Agradeço sempre ao pessoal do [The Odin Project](https://www.theodinproject.com/) que me forneceu toda a base para me tornar um desenvolvedor web.
+Special thanks to [The Odin Project](https://www.theodinproject.com/) for providing the foundation that helped me become a web developer.
 
-E ao Jet Propulsion Laboratory da NASA, por disponibilizar gratuitamente os dados orbitais de todos os objetos do Sistema Solar para a população, e ainda responder rapidamente e-mails de suporte técnico.
+And to NASA’s Jet Propulsion Laboratory for making detailed orbital data on Solar System objects freely available to the public—and for offering fast and helpful technical support via email.
