@@ -52,7 +52,7 @@ A estratégia de coordenadas RA/DEC também foi adotada para construir o **plano
 
 # Créditos
 
-Projeto desenvolvido por Pedro Sofal.
+Projeto desenvolvido por Osmel.
 
 O banco de dados foi construído a partir da API [Le système solaire à portée de votre souris](https://api.le-systeme-solaire.net/), apesar de bastante modificada e atualizada com dados do [Horizons System, do Jet Propulsion Laboratory da NASA](https://ssd.jpl.nasa.gov/).
 
