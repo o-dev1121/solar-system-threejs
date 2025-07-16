@@ -23,11 +23,11 @@ The scene includes all planets, dwarf planets, their natural satellites, dozens 
 Saturn is always a standout with its intricate ring system. Get up close to see the thousands of particles making up the gas giant’s rings.
 
 
-Urano, Netuno e Júpiter são outros planetas que exibem um sistema de anéis, mas você sabia que o planeta-anão Haumea e o centauro Cáriclo também possuem um anéis?
+Uranus, Neptune, and Jupiter also have ring systems — but did you know that the dwarf planet Haumea and the centaur Chariklo have rings too?
 
-Outro evento empolgante que acontece no Sistema Solar é a liberação de gases por cometas ativos quando se aproximam do Sol, devido à radiação e aos ventos solares, o que lhes confere uma coma em torno do núcleo e uma cauda formada por gás e poeira. Use a máquina do tempo para posicionar um cometa antes da órbita de Júpiter para conferir o fenômeno em ação.
+Another exciting event in the Solar System is the release of gas from active comets as they approach the Sun. Solar radiation and wind cause a glowing coma around the nucleus and a tail of gas and dust. Use the time machine to position a comet before Jupiter’s orbit and watch the phenomenon unfold.
 
-E, claro, não deixe de apreciar o nosso planeta azul flutuando no espaço com sua camada de atmosfera e efeitos de shaders baseados na luz do Sol. Dependendo da data é possível até observar o eclipse solar com a projeção da sombra da Lua sobre a Terra, ou até a passagem de um cometa como o Halley.
+And of course, don’t miss admiring our blue planet floating in space with its atmospheric layer and sunlight-based shader effects. Depending on the date, you might even catch a solar eclipse with the Moon's shadow cast on Earth—or witness a comet like Halley passing by.
 
 ## Precisão
 
